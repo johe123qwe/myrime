@@ -1,0 +1,699 @@
+---
+name: wubi86_jidian_extra
+note: "扩展词库"
+version: "2019-09-06"
+last_edit_time: "2020-04-19"
+dict_grouped: true # 词库管理应用识别：标记该码表为分组模式
+sort: original
+# 码表的排序方式: by_weight 权重，original 原始顺序
+
+# 码表内容格式：字词 键码  权重 （中间是tab，不是空格）
+# '#'开头的只是注释， 注释只能另起一行写，不能在词条后面写
+# `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
+
+...
+## 摩托车
+单盘	ujte
+双盘	ccte
+胎压	ecdf
+CBR500R	cbr
+GoPro	gop
+GSX250R	gsx
+曼岛TT	jlqy
+护杠	rysa
+摩托邦	yrdt
+
+## 常用短语
+一两个月	ggwe
+
+## 四叠字
+叕	cccc
+
+## 三叠字
+众	cccc
+厽	cccc
+刕	cccc
+㐂	cccc
+孨	cccc
+品	cccc
+姦	cccc
+森	cccc
+歮	cccc
+鑫	cccc
+淼	cccc
+尛	cccc
+焱	cccc
+垚	cccc
+壵	cccc
+惢	cccc
+𡘙	cccc
+猋	cccc
+犇	cccc
+掱	cccc
+舙	cccc
+晶	cccc
+瞐	cccc
+𤾩	cccc
+皛	cccc
+畾	cccc
+磊	cccc
+毳	cccc
+鱻	cccc
+驫	cccc
+骉	cccc
+羴	cccc
+矗	cccc
+䆐	cccc
+飝	cccc
+龘	cccc
+麤	cccc
+
+## 新词
+奶思	veln
+AirTag	airt
+iMessage	imes
+yyds	yyds
+
+## 应用名
+懂车帝	nlup
+阿里云盘	bjft
+百度云	dyfc
+百度网盘	dymt
+欧路	aqkh
+点音	hkuj
+
+## 电视剧
+铁齿铜牙纪晓岚	qhqm
+纪晓岚	xjmm
+和珅	tkgj
+男人帮	lwdt
+
+## 影视
+黑镜	lfqu
+夏洛特烦恼	ditn
+你好，李焕英	soam		李焕英
+危情三日	qndj
+时间旅行者的妻子	juyb
+星际穿越	jbpf
+无敌破坏王	ftdg
+盗梦空间	uspu
+黑客帝国	lpul
+利刃出鞘	tvba
+电锯惊魂	jqnf
+阿凡达	bmdp
+切尔诺贝利	aqyt
+极盗者	suft
+王牌特工	gtta
+暮光之城	aipf
+狼嚎	qtky
+冰海陷落	uiba
+灰猎犬号	dqdk
+触不可及	qgse
+
+## 歌名
+寄居蟹	pnqe
+斑马	gycn
+醉清风	simq
+借我	watr
+无骨无花，无我无他	fmfw
+大天篷	dgtt
+孤芒	bray
+伊兰爱情故事	wueg
+
+## 品牌
+美特斯邦威	utad
+薛记炒货	ayow
+泰迅	dwnf
+五菱	ggaf
+小鹏汽车	ieil
+小鹏	ihee
+江小白	iirr
+果唯依	jkwy
+凯迪拉克	mmrd
+迪卡侬	mhwp
+超意兴	fuiw
+迈森兰	dsuf
+恒源祥	nipy
+赛羽	pfnn
+捷酷	rgsg
+海澜之家	iipp
+海澜	itiu
+千图	tflt
+华莱士	wafg
+舒尔	wfqi
+维迈通	xdce
+戴森	fass
+格力	stlt
+科大讯飞	tdyn
+
+## 数码
+紫米	hxoy
+数字尾巴	opnc
+Vivo	vivo
+Oppo	oppo
+金立	qquu
+
+## 喜剧人
+郭德纲	ytxm
+于谦	gfyu
+小沈阳	iibj
+岳云鹏	rfee
+沈腾	ipeu
+艾伦	aqww
+张小斐	xidj
+贾玲	smgw
+
+## 歌手
+谢春花	ydaw
+王贰浪	gaiy
+王筝	ggtq
+阿悄	bsni
+薛之谦	apyu
+张碧晨	xgjd
+那英	vfam
+王菲	ggad
+庆庆	ydyd
+周杰伦	msww
+陈粒	baou
+解忧邵帅	qnvj
+龙梅子	dsbb
+张峰奇	xmds
+莫艳琳	adgs
+陈雪凝	bfux
+李荣浩	sait
+陈慧娴	bdvu
+郑源	udid
+华晨宇	wjpg
+
+## 演员
+周韵	mfuj
+姜文	ugyy
+姜武	ugga
+舒淇	wfia
+赵薇	fhat
+葛尤	ajdn
+甄子丹	sbmy
+李连杰	slso
+姚晨	vijd
+王洛丹	gimy
+孙红雷	bxfl
+沙溢	iiiu
+
+## 化妆品品牌
+奥洛菲	tiad
+欧莱雅	aaah
+韩芬娜	favv
+春纪	dwxn
+碧思泉	glri
+魅力可诗	rlsy
+美肌颜	ueut
+
+## 医
+直肠癌	feuk
+肛痿炎	euoo
+肝硬化	edwx
+
+## 地名
+莒县	akeg
+孙家庄	bpyf
+马家	cnpe
+马家小区	cpia
+台儿庄	cqyf
+万达	dndp
+雪野湖	fjid
+下屯	ghgb
+沂水	irii
+蟠龙山	jdmm
+果庄	jsyf
+泉城广场	rfyf
+领秀城	wtfd
+台儿庄	cqyf
+
+## 游戏名
+刺客信条	gpwt
+极品飞车	sknl
+塞尔达	pqdp
+
+## 王者荣耀
+黄忠	amkh
+太乙真人	dnfw
+蔡文姬	ayva
+虞姬	hava
+李元芳	sfay
+刘备	yjtl
+橘右京	sdyi
+安琪拉	pgru
+项羽	adnn
+甄姬	sfva
+扁鹊	ynaj
+赢政	yngh
+妲己	vjnn
+小乔	ihtd
+元歌	fqsk
+娜可露露	vsff
+典韦	mafn
+钟无艳	qfdh
+赵云	fhfc
+关羽	udnn
+杨戬	sngo
+露娜	fkvv
+兰陵王	ubgg
+程咬金	tkqq
+白起	rrfh
+牛魔	rhys
+亚瑟	gogg
+夏侯惇	dwny
+韩信	fjwy
+老夫子	ffbb
+宫本武藏	psga
+阿轲	bsls
+不知火舞	gtor
+武则天	gmgd
+王昭君	gjvt
+高渐离	yiyb
+东皇太一	ardg
+狄仁杰	qwso
+鲁班七号	qgak
+百里守约	djpx
+百里玄策	djyt
+上官婉儿	hpvq
+公孙离	wbyb
+马超	cnfh
+芈月	gjee
+干将莫邪	fuaa
+沈梦溪	isie
+盾山	rfmm
+蒙犽	apqt
+鲁班大师	qgdj
+云中君	fkvt
+盘古	tedg
+李信	sbwy
+伽罗	wllq
+司马懿	ncfp
+孙策	bitg
+米莱狄	oaqt
+狂铁	qtqr
+弈星	yojt
+裴擒虎	drha
+杨玉环	sggg
+明世隐	jabq
+梦奇	ssds
+苏烈	algq
+大乔	ddtd
+
+## 事件
+新型冠状病毒	ugpg
+小汤山	iimm
+火神山	opmm
+雷神山	fpmm
+汶川	iykt
+N号房	nkyn
+
+## emoji
+🙂	tmtt		微笑
+🙃	tmtt		微笑
+😆	ddtt		大笑
+😂	ttkk		笑哭
+🤣	ttkk		笑哭
+🥰	ep		爱
+🤩	kffg		哇
+🥶	dndn		尴尬
+🤗	tada		tada
+🤗	skep		可爱
+👍	xk		强
+👍	vb		好
+👍	hktf		点赞
+👍	rhk		牛
+👋	rprt		挥手
+😭	ddkk		大哭
+😭	kkdu		哭
+🥳	ydpy		庆祝
+😎	tdgk		智囊
+😉	ryhv		挤眼
+😉	ryhv		眨眼
+😊	skep		可爱
+😏	klkl		嘿嘿
+😝	kftd		吐舌
+😛	kftd		吐舌
+😋	vbkt		好吃
+😚	usus		亲亲
+😘	epwq		爱你
+😗	usus		亲亲
+😙	usus		亲亲
+🤩	wow		wow
+😤	tgrn		生气
+😳	ks		呆
+😡	tgrn		生气
+🤬	kkww		骂人
+🤫	khag		嘘
+🤔	lnft		思考
+🤗	tada		tada
+🤗	wala		wala
+😓	ifh		汗
+🤮	tgug		生病
+🤒	ntoa		发烧
+🤧	thiu		鼻涕
+🤧	dgjh		感冒
+👽	qjww		外星人
+🤐	ufkh		闭嘴
+🥱	kwqw		哈欠
+🥱	lsbn		困了
+😴	htip		睡觉
+😪	htip		睡觉
+😪	htud		睡着
+💀	meme		骷髅
+💩	ococ		粑粑
+💩	wgwg		便便
+👻	rqc		鬼
+😈	ahgo	邪恶
+✌🏻	bbh		耶
+✌🏻	yeah		耶
+🤦🏻‍♂️	kdb		呃
+🙏🏻	pypy		祈祷
+🙏🏻	pytf		祷告
+⭐	ggjt		五星
+❤️	ny		心
+❤️	epny		爱心
+
+
+
+## emoji动物
+🐶	qtqk		狗
+🐱	qtal		猫
+🐭	vnu		鼠
+🐠	qgf		鱼
+🐯	ftha		虎
+🦖	amdx		恐龙
+🐞	jsjh		螵虫
+🐙	ujqg		章鱼
+🐔	wccq		公鸡
+🦃	oocq		火鸡
+🐑	xrud		绵羊
+🐬	itee		海豚
+🐘	ddqj		大象
+🦎	nkha		壁虎
+🦌	ynj		鹿
+🐵	qtbb		猴子
+🐺	qty		狼
+🦉	quyw		猫头鹰
+🐳	qgqg		鲸鱼
+🐛	ttjh		毛毛虫
+🐜	jcjy		蚂蚁
+🦇	jyjg		蝙蝠
+🦕	amdx		恐龙
+🦒	tcyn		长颈鹿
+🕸	jjmq		蜘蛛网
+🦜	mmga		鹦鹉
+🐤	ihcq		小鸡
+🐡	isee		河豚
+🦞	dxjg		龙虾
+🦘	wavn		袋鼠
+🦙	udcp		羊驼
+🐪	ctcp		骆驼
+🦐	jghy		虾
+🐊	qgqg		鳄鱼
+🐲	dxn		龙
+🦓	gycn		斑马
+🦏	iscn		河马
+🦑	qnma		乌贼
+🦂	jjbb		蝎子
+🦛	iscn		河马
+🐏	xrud		绵羊
+🦈	iiqg		鲨鱼
+🦭	itee		海豹
+🐉	dxn		龙
+🦬	rhk		牛
+🦫	vnu		鼠
+🦩	mspt		丹顶鹤
+🦧	qtqt		猩猩
+🐆	eeqy		豹
+🦚	bniw		孔雀
+🐻‍❄️	ceqt		熊猫
+🦢	trng		鹅
+🐋	qgqg		鲸鱼
+🦦	scng		树懒
+🐈‍⬛	qtal		猫
+🐚	itjl		海螺
+🏇🏻	pfnc		赛马
+🐢	qnqj		乌龟
+🦆	lqbb		鸭子
+🕊	wgbb		鸽子
+🦍	qtqt		猩猩
+🐐	mmud		山羊
+🦄	qqul		独角兽
+🦋	jdja		蝴蝶
+🐄	verh		奶牛
+🐮	rhk		牛
+🐕‍🦺	nydg		导盲犬
+🦮	qtqk		狗
+🐕	qtqk		狗
+🐹	vnu		鼠
+🐹	wbvn		仓鼠
+🐽	qtfj		猪
+🐷	qtfj		猪
+🙈	rddm		掩面
+🙈	rgew		捂脸
+🦔	gmqt		刺猬
+
+## emoji水果
+🍏	agjs		苹果
+🍎	agjs		苹果
+🍐	tjs		梨
+🍊	swbb		橙子
+🍋	spsa		柠檬
+🍌	tjaw		香蕉
+🍇	aqaq		葡萄
+🍓	ajat		草莓
+🫐	ajat		蓝莓
+🍈	kprc		哈密瓜
+🍒	smsi		樱桃
+🍑	sibb		桃子
+🥭	ayjs		芒果
+🍍	aial		菠萝
+🥥	sbbb		椰子
+🥝	qqsi		猕猴桃
+🍆	albb		茄子
+🥑	rijs		牛油果
+🥦	suaw		西兰花
+🥦	aeaw		菜花
+🥬	imae		油菜
+🥒	amrc		黄瓜
+🌶	ugsh		辣椒
+🫑	aesu		菜椒
+🌽	gyoy		玉米
+🥕	dahh		胡萝卜
+🧄	ddaf		大蒜
+🧄	afi		蒜
+🧅	iuaq		洋葱
+🥔	ffgk		土豆
+🍠	xaal		红薯
+🍠	fbrc		地瓜
+🍀	sckf		树叶
+🥚	cqnh		鸡蛋
+🍗	cqev		鸡腿
+🍭	ssoy		棒棒糖
+🥢	tnbb		筷子
+🍺	kris		啤酒
+🍻	kris		啤酒
+🥂	kjis		啤酒
+🥂	kjis		干杯
+🥮	eeqn		月饼
+
+## emoji运动
+⚽️	khgf		足球
+🏀	tjgf		篮球
+🏈	ssgf		橄榄球
+⚾️	sdgf		棒球
+🥎	sdgf		棒球
+🎾	mqgf		网球
+🏐	rdgf		排球
+🏉	ssgf		橄榄球
+🥏	nute		飞盘
+🎱	ckgf		台球
+🏓	rrgf		乒乓球
+🏸	ntgf		羽毛球
+⛳️	yqfw		高尔夫
+🪁	mqtq		风筝
+🤿	ifii		潜水
+⛷	imfv		滑雪
+🎿	imfv		滑雪
+🏂	imfv		滑雪
+🏂	ujsr		单板
+🥌	uifp		冰壶
+⛸	imui		滑冰
+🛹	imsr		滑板
+🥊	udfm		拳击
+🥋	kuut		跆拳道
+🎮	iyca		游戏
+📖	nnh		书
+📚	nnh		书
+📕	nnh		书
+🙏🏻📖	pryt		神的话
+📝	wtog		作业
+🎁	pytr		礼物
+📱	rtsm		手机
+📲	rtsm		手机
+⏰	jfuj		时间
+🕰	jfuj		时间
+🔋	jnib		电池
+🥁	ujqi		音乐
+🎹	ujqi		音乐
+🎧	ujqi		音乐
+🎸	ujqi		音乐
+💬	wyth		信息
+
+
+
+## 摩托车
+排量	rdjg
+摩托范	yrai
+
+## 早上好
+🤗🍀 A beautiful day has begun! May peace and happiness be with you at all times. (✿◠‿◠) 	gmo
+👋🤗 Good morning (✿◠‿◠) 	gmo
+Good morning, a new day has started, today we face life and work by God. May God be with you every moment, thank God!💐❣️🍃 	gmo
+Good morning! A new day, a new beginning. 😊 With expectations and a good mood, start a new day with God’s words!🌤️ 	gmo
+Good morning 💐❣️🍃 Blessings of grace and peace are with you now and every day. ❣🌳💞May we all have a normal and intimate relationship with our God💞❤️❣️ 	gmo
+
+## 下午好
+🤗👋 Good afternoon 	gtvb
+🤗😀 Good afternoon, I'm the admin of the Learning God’s word group, my name is David, nice to meet you!	gtvb
+
+## 其他常用
+God bless you!🙏🏻 	gby
+🙏🏻❤️ God says, 	gs
+🙏🏻❤️ Let me share a passage of God’s word with you.📖	wvyb
+Welcome to our group, 🥗 write "yes" if you want to learn more about God 🙂 🤝 ❤️ write "no" if you don't 	ipet
+Thank you for accepting my invitation. I am very glad to know you who yearn for the truth. May God bless you 🙏🤗 	ipet
+👋🎄Merry Christmas	cynq
+
+## 鼓励
+👋 My family, You love the word of God. The pastor told me that you studied hard yesterday. I hope you will continue to strive to study the Word of God. ❤️ 	fkdd
+🤗👋 Good evening My family, Good news for you🌷☘️, the pastor told me that you are serious about studying God's word. Will you continue to participate tomorrow night?🎁 	fkdd
+❤️The pastor told me that 20 of the 100 beginners need to be selected to join the advanced class. You are one of them. I am really happy for you. 	fkdd
+
+
+## 晚上好
+🤗👋 Good evening 	jhvb
+Good night ❤️  I hope you slept well and woke up to a wonderful new day! 	jqpv
+
+## 自我介绍
+🤗My name is David. I'm 31 years old, from Taiwan, I'm a kindergarten teacher, now living in Germany. How about you? 	wjxv
+🤗My name is Ella. I'm 31 years old, from Taiwan, I'm a kindergarten teacher, now living in Germany. How about you? 	wjxv
+🤗👋 hi i am Ella, Nice to meet you 😊 	wjxv
+🤗👋 hi i am David, Nice to meet you 😊 	wjxv
+🤗😀 Good morning, I'm the admin of the Learning God’s word group, my name is David, nice to meet you! 	wjxv
+👋👋 It's a pleasure to say hello and God be with you and bless you always 🌹❤️ My name is David, I was born into a Christian family and  I'm the admin of the Learning God’s word group. Welcome to our group, 🥗 Please write "yes" if you want to learn more about God 🙂 🤝 ❤️ Please write "no" if you don't want to 	wjxv
+🥰 You may be a little new to me, so let me introduce myself. My name is David, I'm 31 years old, married, a pastoral assistant, and I'm from Taiwan. Living in Germany. I am a kindergarten teacher 💃💃 I have a 5 year old daughter, if you don't mind, could you introduce yourself? 	wjxv
+
+## 了解需求
+😀I believe that you can come to this group because of God’s leadership and guidance. 	fdfi
+Can you tell me how you came to our group? 	fdfi
+
+## 问网络
+can you answer me a question？  	mqxt
+🌺🌹 To help you choose the right study group, Please answer my question, It only takes 1 minute.⏰ 	mqxt
+Thank you❤️ 	ytyt
+How much data do you have every day?📱 50MB or 100MB or 200MB? 	mqxt
+How much data do you have every week?📱 300MB or 500MB or 1000MB? 	mqxt
+
+## Telegram 欢迎
+👏👏👏🎉🎉🎉😊💖 You are welcome to join the fellowship and we will study God's word together tonight.  	cqqb
+https://t.me/+	tlink
+https://wa.me/	wlink
+
+## 开场前提醒
+👋 I will also remind you before the fellowship begins. Stay tuned for my message.📲💬 Okay? 	rjsg
+⏰This evening's fellowship has begun, have you joined the fellowship yet?	rjsg 
+🤗😊 Good evening dear study starts in 20 minutes, 🔋 📲 Please give your phone a full charge. 	rjsg
+🤗 😊 My family study starts in 30 minutes, 🔋 📲 Please give your phone a full charge. 	rjsg
+The only meeting that will help you get the keys to the kingdom of heaven is starting, are you studying yet? 	rjsg
+Let's pray together.🙏🏻 May God lead you in your study tonight.	rjsg
+We can respond to the preacher's message by giving her a ❤️. Or we can reply "Amen" after reading it. We can also actively answer questions and share our feelings and understanding of what we have learned! 	rjsg
+
+## 邀约语
+😇I have a good news for you, i believe that's why God lead you come here🎁	ryxq
+🌺🌸🙏😊 We have a free web-based online learning course on the topic of living in sin today, spiritual emptiness, absence of God's presence, disasters, illness, work and marriage problems that make us feel miserable and helpless. The pastor will show you how to get rid of your sins and reach true repentance in order to receive God's forgiveness and blessings. Will you accept this invitation? 😇 😇 😇 😇 😇 😇 	ryxq
+🌸🙏God has given us 24 hours a day, we only need to spend 1-2 hours close to God and He will be happy and bless our life and work. 🙏❤️❤️❤️❤️ Tonight's fellowship is about the truth of how to receive God's return 💎 and if you can understand this aspect of truth, you and your family will be blessed and protected by God. I would like to invite you to join with me, ok? 	ryxq
+✝️✝️✝️I have a blessing from the Lord Jesus that I want to give to you. This is a beautiful invitation. 📚💐🌷🌾 	ryxq
+🌺🌸🙏😊 I cordially invite you to this conference, this love comes from God ❤️❤️❤️❤️. Because we all have a lot of difficulties, the pressure of life, the pressure of illness, the pressure of marriage, the pressure of work, the disasters happening everywhere now, etc. The whole world is facing a crisis and we have no second way out but to turn to God. Our fellowship has a four-day study to show you how to get out of sin and into the kingdom and how to welcome the return of the Lord Jesus. Are you willing to accept this invitation from God? 🙏	ryxq
+
+## 加入小组
+🤗 Please click on the link to join the group for tonight's study of God's Word. 	click
+
+## 夸赞
+🤗❤️Thank God that I know more friends in Christ. During this time of trouble, I hope we can share God’s words with each other. 	dftf
+😇❤️🥳 I am so happy to meet you here, it is God's arrangement. 	dftf
+😇🙏Thank God for your very beautiful name. 	dftf
+I believe that you can come to this group because of God’s leadership and guidance.	dftf
+👋 I'm glad to see your message.💬	dftf
+👋 I'm glad to see your message.💬	happy
+👋👋 It's a pleasure to say hello and God be with you and bless you always 🌹❤️ 	dftf
+Thank you for accepting my invitation, it's nice to meet you who aspire to the truth, may God bless you 🙏🤗 	dftf
+It's nice to meet you, I believe you're a lover of mythic language and we can be good friends! I also believe that when we study God's word together we can make our God happy too as we worship Him together! 💗💗💗💗	dftf
+God has given you an opportunity to receive His grace. Although our work life is busy, if we can set aside 1-2 hours a day 24 hours to study God's word, God will bless those who look at it first ❤️❤️❤️	dftf
+
+## 介绍团契
+👩‍🦰👩‍🦰 Every night after the study, the pastor will send us a few simple questions, in order to help us deepen our understanding and make us understand more truths, attend 4 days in a row, by day 5 the pastor will sign you up for the advanced class to learn more truths, mysteries, all truths mysteries that you have never heard before. Are you willing?Did you see the message the pastor sent you? 🥳🥳🤩🤩🤩 	wxld
+⏰📚This study lasts for 4 days, each time you participate in 50 minutes to meet the attendance standard. After 4 consecutive days of participation, the pastor will invite you to enter the advanced class, you will be able to learn more about God's words. 	wxld
+⏰The study will last 90 to 120 minutes and I want you to pay attention to the whole process. The brothers and sisters in the group are very warm and friendly. Don't be shy. You can actively interact and answer questions. If you have questions🧐 the pastor will help you and I will study with you.❤️ 	wxld
+Great topic you chose! 👍 You are a Christian who loves the Word of God. 	wxld
+🤗 Our fellowship is phonetic andstudy for 3 days. 90 minutes of study per day. each time need 100-150mb of data, 3 days need 450mb of data. Is your data available for 3 days? 🍀🕠⚡🤗🤗	wxld
+🤗🤗 I have to explain to you our study plan so you can better participate in the study. ❣1: 🥇 The beginner group will study for 4 days, 100 minutes per day, and after 4 days, if you pass the final exam, you will be invited to join the advanced group for free. ❣2: 🏆 The advanced group is not open to everyone. Only those who like to study God's word and stick to it can join. In the advanced group we will learn more about God's truth. It is the key to enter the gates of heaven 	wxld
+
+## 回访
+My family❤️ you love to study God's word📝. You studied very hard last night. ⏰Tonight the study time is the same as last night. Will you attend?📚🎁 	lkyy
+My family❤️ you love to study the Word of God. You didn't join the fellowship last night. Can you tell me what difficulties you encountered? 	lkyy
+My family❤️ you love to study the word of God. Last night, you had little time to participate in the fellowship. Did you encounter any difficulties? 	lkyy
+My family ❤️ You love to study God's word 📝. You studied very hard tonight. ⏰ Tomorrow night will be the same study time as tonight. Will you be attending? 	lkyy
+My family ❤️ You love to study God's word. You are not in fellowship this evening. Can you tell me what difficulties you encountered? Will you attend tomorrow night? 	lkyy
+My family ❤️ You love to study God's word. You had a short time to study tonight. Did you encounter any difficulties? 	lkyy
+🤗 Hello, you are amazing, I have to give you a thumbs up 👍🏼, you deserve my trust because you really did it tonight 👍🏼, attended our first class tonight 📚, Pastor was glad to have you there 🤗. But not everyone is as honest and 🥹 thirsty for God's word as you are 📚 I'm really sad that some brothers and sisters attend once and don't continue to attend. But not you, I'm sure. The pastor also thinks highly of you and asked me to help you by reminding you to complete the four-day course,📚 and the pastor also asked me to pass on the message to you. You have taken the first step into the advanced class 🦶🏼, in four days you are a candidate for the advanced class 🤗, that's great 🥳, we will complete the four days together, will you ❓❓❓❓❓ ❓❓ 	lkyy
+🤗How are you? It’s really a pity. You missed the first class, but it’s okay. I believe you must have some difficulties so you missed it. In fact, I can invite you to participate in the four-day class. I still have full confidence in you and Looking forward, 🤗 😇I have told the pastor that you may have missed it because of some difficulties you encountered. The pastor told me that it does not matter. Our course is for four days, and I hope you can continue to participate in the next three days,📚 And I forgot to tell you a secret, ☺️As long as you complete the next three days of classes, you will have the opportunity to enter the advanced class group, the pastor told me, so I hope I can join you tomorrow night, would you like 🙈Hope When I put down my hands and saw your reply: I am willing ☺️📣❓❓❓❓❓❓❓ 	lkyy
+My family ❤️, I have good news for you. The pastor told you that you studied hard tonight. You are God's sheep. I'm really happy for you. ⏰ Will you be attending tomorrow night? 	lkyy
+
+## 高级班
+🎉🎉Congratulations, you have now completed the basic fellowship, the preacher will arrange a new group for us, which is also the highest fellowship group to continue to study the new word of God. 😍😍 Only those who accept the new work of God and understand the new word of God Only people can enter this new state-of-the-art group. 🤗🤗 	yxgy
+
+
+## 安装小飞机
+Our fellowship is on Telegram, can you download Telegram? 📲 https://play.google.com/store/apps/details?id=org.telegram.messenger 	telegram
+If you installed it, please send me a message on Telegram? I will add you to the fellowship. 📲  https://t.me/ellade10 	telegram
+
+## 申请团契
+I am now applying for your name to the pastor, please wait.⏰⏰ 	apply
+
+
+## 翻新
+📖God says: “God seeks those who long for Him to appear. He seeks those who are able to hear His words, those who have not forgotten His commission and offer up their hearts and bodies to Him. He seeks those who are as obedient as babes before Him and do not resist Him. If you devote yourself to God, unimpeded by any power or force, then God shall look upon you with favor and shall bestow His blessings upon you.” 🌱🌳🌱🌳Since you love God, you have an extra chance to invite 5 people to our sermon and get God's blessing, this is a great opportunity, who do you want to invite? May I know their Whatsapp? 	tous
+😀My family, do you have a family member or friend who loves God's word as much as you do? You are a lay believer like you, not a priest. Can you send me their Whatsapp?📱 I invite them to study the word of God. 	tous
+You just need to send a number and I will do the rest. 	tous
+
+## 团契规则
+🙏🏻Peace in the Lord, I am very happy to meet you in this group. Some brothers and sisters have already applied to enter the advanced study group, so our primary study group will remove these brothers and sisters first. May God bless everyone, if you want to join Advanced Study God's Word Group please contact the administrator, thank you. 	ldfm
+whatsapp is only a beginner class, Telegram is an intermediate class, more brothers and sisters are studying on Telegram, you have already joined the intermediate class. 	ldfm
+
+
+😇❤️🎁  My family, you love to study the word of God. I recommend an app that contains many words and poems of God. You can install. 📲 https://play.google.com/store/apps/details?id=org.GodFootSteps.CAGLite 	app
+
+## 国家时间
+The fellowship will start at ⏰Nigerian time 7:00pm, do you have time to join? 	njtg
+The fellowship will start at ⏰Nigerian time 7:00pm, please remember tonight's study time.⏰ 	njtg
+The fellowship will start at ⏰Uganda time 9:00pm, do you have time to join? 	qfdp
+The fellowship will start at ⏰Uganda time 9:00pm, please remember tonight's study time.⏰ 	qfdp
+The fellowship will start at ⏰Ghana time 6:00pm, do you have time to join? 	lkxm
+The fellowship will start at ⏰Ghana time 6:00pm, please remember tonight's study time.⏰ 	lkxm
+The fellowship will start at ⏰Zambia time 8:00pm, do you have time to join? 	txgo
+The fellowship will start at ⏰Zambia time 8:00pm, please remember tonight's study time.⏰ 	txgo
+The fellowship will start at ⏰Kenya time 9:00pm, do you have time to join?? 	hngo
+The fellowship will start at ⏰Kenya time 9:00pm, please remember tonight's study time.⏰	hngo
+
+## 家庭作业
+👋😇 My family, Have you done your homework? Don't be shy, don't worry about right or wrong, the pastor will help you. Please send homework to the pastor. Pastor Esther Han 📱 whatsapp:  http://wa.me/33616898911 	wtog
+
+## 福音人员
+😊God bless you! I would like to introduce preachers Daniel  and Helene who  hosts bible study. In the next Four days, they  will study the bible with us, to help us understand God's words and get rid of pain.  Preacher  Helene is very kind. Please remember to save her whatsapp number and chat with her, okay? Preacher Helene 👇 WP: http://wa.me/19713491303 	qbny
+
+## 出现在这行以下的不当作注释
+# no comment
+#内容:: 	mwpw
