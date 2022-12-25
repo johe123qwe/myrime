@@ -2,7 +2,7 @@
 name: wubi86_jidian_extra
 note: "扩展词库"
 version: "2019-09-06"
-last_edit_time: "2020-04-19"
+last_edit_time: "2022-12-26"
 dict_grouped: true # 词库管理应用识别：标记该码表为分组模式
 sort: original
 # 码表的排序方式: by_weight 权重，original 原始顺序
