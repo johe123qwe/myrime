@@ -1,3 +1,7 @@
+**.log
+**.old
+LOG
+LOG.old
 .DS_Store
 build/wubi86_jidian.prism.bin
 build/wubi86_jidian.reverse.bin
@@ -8,12 +12,3 @@ wubi86_jidian.userdb/LOG.old
 user.yaml
 wubi86_jidian.userdb/MANIFEST-*
 wubi86_jidian.userdb/*.ldb
-build/wubi86_jidian.prism.bin
-build/wubi86_jidian.reverse.bin
-wubi86_jidian.userdb/LOG.old
-wubi86_jidian.userdb/LOG
-wubi86_jidian.userdb/CURRENT
-**.log
-**.old
-LOG
-LOG.old
