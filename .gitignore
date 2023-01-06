@@ -13,3 +13,7 @@ build/wubi86_jidian.reverse.bin
 wubi86_jidian.userdb/LOG.old
 wubi86_jidian.userdb/LOG
 wubi86_jidian.userdb/CURRENT
+**.log
+**.old
+LOG
+LOG.old
