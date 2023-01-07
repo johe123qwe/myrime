@@ -3,12 +3,12 @@
 LOG
 LOG.old
 .DS_Store
+wubi86_jidian.userdb/*.ldb
+wubi86_jidian.userdb/CURRENT
 build/wubi86_jidian.prism.bin
 build/wubi86_jidian.reverse.bin
 build/wubi86_jidian.table.bin
-wubi86_jidian.userdb/CURRENT
 wubi86_jidian.userdb/LOG
 wubi86_jidian.userdb/LOG.old
 user.yaml
 wubi86_jidian.userdb/MANIFEST-*
-wubi86_jidian.userdb/*.ldb
