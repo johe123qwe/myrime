@@ -1,2 +1,7 @@
 var:
-  last_build_time: 1671096660
+  last_build_time: 1673513021
+  previously_selected_schema: wubi86_jidian
+  schema_access_time:
+    numbers: 1671697105
+    pinyin_simp: 1673206103
+    wubi86_jidian: 1673210803

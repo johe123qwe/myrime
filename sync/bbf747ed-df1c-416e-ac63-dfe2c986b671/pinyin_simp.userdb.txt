@@ -1,0 +1,17 @@
+# Rime user dictionary
+#@/db_name	pinyin_simp
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	14
+#@/user_id	bbf747ed-df1c-416e-ac63-dfe2c986b671
+ban 	半	c=0 d=0.1 t=3
+ban xiao shi 	半小时	c=3 d=2.92639 t=12
+de 	的	c=0 d=0.1 t=0
+hai you 	还有	c=2 d=1.96079 t=11
+jie shu 	结束	c=2 d=1.96561 t=14
+jin wan 	今晚	c=0 d=0.1 t=0
+jin wan de 	今晚的	c=2 d=1.96079 t=9
+jiu 	就	c=2 d=1.96561 t=13
+le 	了	c=1 d=1 t=8
+tuan qi 	团契	c=2 d=1.96079 t=10
+xiao shi 	小时	c=0 d=0.1 t=3
