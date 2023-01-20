@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     squirrel: 1613228858
-    squirrel.custom: 1668669824
+    squirrel.custom: 1674222246
 app_options:
   "com.termius-dmg.mac":
     ascii_mode: true
@@ -35,7 +35,7 @@ preset_color_schemes:
   roseo_maple:
     alpha: 1.0
     author: "KyleBing <https://kylebing.cn>"
-    back_color: 0xF4F4F6
+    back_color: 0xFFFFFF
     base_offset: 0
     border_color: 0xffffff
     border_height: 5

@@ -8,7 +8,7 @@ customization:
 patch:
   style:
     inline_preedit: true
-    color_scheme: WhiteAqua  # 匹配正文的颜色方案，对应正文的颜色方案名
+    color_scheme: MacRoseo  # 匹配正文的颜色方案，对应正文的颜色方案名
     display_tray_icon: false
     horizontal: true    # 横向排列候选
     font_point: 12      # 字号
