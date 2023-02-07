@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.7.3
+  rime_version: 1.8.4
   timestamps:
-    default: 1613228859
+    default: 1675085450
     default.custom: 1668675097
-    key_bindings: 1613228859
+    key_bindings: 1675085450
     key_bindings.custom: 0
-    punctuation: 1613228859
+    punctuation: 1675085450
     punctuation.custom: 0
     wubi86_jidian_pinyin.custom: 0
     wubi86_jidian_pinyin.schema: 1665281466
@@ -146,7 +146,7 @@ schema:
     - pinyin_simp
   description: |
     五笔字形 86 极点极爽版，方案由 KyleBing 修改 - 2019年11月08日 10:26
-    
+
   name: "拼音混输"
   schema_id: wubi86_jidian_pinyin
   version: 0.9

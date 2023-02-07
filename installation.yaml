@@ -1,6 +1,7 @@
 distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
-distribution_version: 0.15.2
+distribution_version: 0.16.1
 install_time: "Tue Oct 11 15:54:14 2022"
 installation_id: "bbf747ed-df1c-416e-ac63-dfe2c986b671"
-rime_version: 1.7.3
+rime_version: 1.8.4
+update_time: "Thu Feb  2 22:06:53 2023"

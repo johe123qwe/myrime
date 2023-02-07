@@ -1,13 +1,14 @@
 __build_info:
-  rime_version: 1.7.3
+  rime_version: 1.8.4
   timestamps:
-    squirrel: 1613228858
-    squirrel.custom: 1674222246
+    squirrel: 1675085450
+    squirrel.custom: 1674222537
 app_options:
   "com.termius-dmg.mac":
     ascii_mode: true
 chord_duration: 0.1
 config_version: 0.37
+keyboard_layout: default
 preset_color_schemes:
   calm:
     back_color: 0xEFEFF4
@@ -35,7 +36,7 @@ preset_color_schemes:
   roseo_maple:
     alpha: 1.0
     author: "KyleBing <https://kylebing.cn>"
-    back_color: 0xFFFFFF
+    back_color: 0xF4F4F6
     base_offset: 0
     border_color: 0xffffff
     border_height: 5
@@ -64,4 +65,3 @@ preset_color_schemes:
 show_notifications_when: appropriate
 style:
   color_scheme: roseo_maple
-us_keyboard_layout: false
