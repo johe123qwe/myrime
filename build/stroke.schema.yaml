@@ -1,14 +1,14 @@
 __build_info:
-  rime_version: 1.8.4
+  rime_version: 1.8.5
   timestamps:
-    default: 1675085450
+    default: 1675621991
     default.custom: 1668675097
-    key_bindings: 1675085450
+    key_bindings: 1675621991
     key_bindings.custom: 0
-    punctuation: 1675085450
+    punctuation: 1675621991
     punctuation.custom: 0
     stroke.custom: 0
-    stroke.schema: 1675085450
+    stroke.schema: 1675621991
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -55,6 +55,23 @@ key_binder:
     - {accept: "Control+bracketleft", send: Escape, when: composing}
     - {accept: "Alt+v", send: Page_Up, when: composing}
     - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: d, send: n, when: always}
+    - {accept: t, send: h, when: always}
+    - {accept: j, send: h, when: always}
+    - {accept: k, send: s, when: always}
+    - {accept: l, send: p, when: always}
+    - {accept: u, send: n, when: always}
+    - {accept: i, send: z, when: always}
+    - {accept: KP_1, send: h, when: always}
+    - {accept: KP_2, send: s, when: always}
+    - {accept: KP_3, send: p, when: always}
+    - {accept: KP_4, send: n, when: always}
+    - {accept: KP_5, send: z, when: always}
+    - {accept: KP_6, send: Select, when: has_menu}
+    - {accept: KP_7, send: Select, when: has_menu}
+    - {accept: KP_8, send: Select, when: has_menu}
+    - {accept: KP_9, send: Select, when: has_menu}
+    - {accept: KP_0, send: Select, when: has_menu}
   import_preset: default
 menu:
   page_size: 9
@@ -136,7 +153,7 @@ recognizer:
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:|localhost).*$|^[a-z]+[.].+$"
 reverse_lookup:
   comment_format:
-    - "xlit/hspnz/一丨丿丶乙/"
+    - "xlit/hspnz/⼀⼁⼃⼂⼄/"
   dictionary: luna_pinyin
   preedit_format:
     - "xform/([nl])v/$1ü/"
@@ -173,7 +190,7 @@ switches:
 translator:
   comment_format:
     - "xform/~//"
-    - "xlit/hspnz/一丨丿丶乙/"
+    - "xlit/hspnz/⼀⼁⼃⼂⼄/"
   dictionary: stroke
   preedit_format:
-    - "xlit/hspnz/一丨丿丶乙/"
+    - "xlit/hspnz/⼀⼁⼃⼂⼄/"

@@ -1,8 +1,8 @@
 __build_info:
-  rime_version: 1.8.4
+  rime_version: 1.8.5
   timestamps:
-    squirrel: 1675085450
-    squirrel.custom: 1674222537
+    squirrel: 1675621991
+    squirrel.custom: 1676111117
 app_options:
   "com.termius-dmg.mac":
     ascii_mode: true
